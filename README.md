@@ -2,7 +2,7 @@
 
 This repo contains a vulnerable contract to accompany my talk at BSides St. John's 2017 (http://bsidesstjohns.com/). 
 
-Deployed contract address: [Will be released @ 12:00PM Sept 22nd]
+Deployed contract address: [Will be released @ 10:00AM Sept 22nd]
 
 The easiest way to interact with the contract is to:
 * Download Mist (https://github.com/ethereum/mist/releases)
