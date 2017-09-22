@@ -1,5 +1,7 @@
 # Hack This Smart Contract!
 
+__Update: Contract has been pwned! Check back next year :)__
+
 This repo contains a vulnerable contract to accompany my talk at BSides St. John's 2017 (http://bsidesstjohns.com/). 
 
 Deployed contract address: 0x12CE9Ffd87CfC937F7d9314bd307A99B969B4163
