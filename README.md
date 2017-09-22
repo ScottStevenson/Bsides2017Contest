@@ -11,4 +11,6 @@ The easiest way to interact with the contract is to:
 * Input the contract address and the JSON interface from this repo
 * You can then call contract functions directly from Mist
 
+Edit: I should have mentioned that you'll need some Eth to execute commands on the contract! You can acquire some on a site like Coinbase, or I will send you enough for a couple attempts if you send me a message!
+
 Good luck!
